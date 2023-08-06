@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #0e0e0e;
+}
+
+.clock {
+    text-align: center;
+}
+
+.time {
+    font-size: 5rem;
+    font-weight: bold;
+    color: #f03608;
+    margin-bottom: 10px;
+}
+
+.date {
+    font-size: 4rem;
+    color: #1909f3;
+}
+.day {
+    font-size: 4rem;
+    color: #0cf947;
+}
